@@ -31,7 +31,7 @@
       </td>      
        <td>         
         <h5>Frontend</h5>
-         <img src="https://skillicons.dev/icons?i=css,html,js,bootstrap" />
+         <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
         </td>  
         <td>               
           <h5>Backend</h5>
