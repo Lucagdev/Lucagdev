@@ -31,11 +31,11 @@
       </td>      
        <td>         
         <h5>Frontend</h5>
-         <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
+         <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react" />
         </td>  
         <td>               
           <h5>Backend</h5>
-          <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,python,php" />  
+          <img src="https://skillicons.dev/icons?i=python,nodejs,cs,dotnet,php" />  
         </td>
     </tr>           
     </tbody>
