@@ -32,21 +32,22 @@
 - 🦇 **[lucasgdev-bat-tools](https://github.com/Lucagdev/lucasgdev-bat-tools)** - Scripts batch para produtividade
 
 ### Web & Apps
-- 💆 **[site-mae](https://github.com/Lucagdev/site-mae)** - Site profissional para centro estético (React + TypeScript)
 - 🏋️ **[gym-app](https://github.com/Lucagdev/gym-app)** - App de treino (TypeScript)
-- 🧘 **[pilates-fisio-e-forma](https://github.com/Lucagdev/pilates-fisio-e-forma)** - Plataforma para clínica de pilates e fisioterapia
 - 📅 **[AGENDAHUB](https://github.com/Lucagdev/AGENDAHUB)** - Gestão eficiente para prestadores de serviço
 - 📚 **[Le.io-app](https://github.com/Lucagdev/Le.io-app)** - Organização e leitura de e-books
 - 🏷️ **[Protags-Gestao](https://github.com/Lucagdev/Protags-Gestao)** - Sistema de gestão eficiente
+- 📲 **[Python-Lucas-Zap](https://github.com/Lucagdev/Python-Lucas-Zap)** - Automação de WhatsApp com Python
 - 🕷️ **[Desafio-Tecnico-Web-Scraping](https://github.com/Lucagdev/Desafio-Tecnico-Web-Scraping)** - Web scraping com Python
+- 🎨 **[Fooocus](https://github.com/Lucagdev/Fooocus)** - Geração de imagens com IA (Stable Diffusion)
 
 ---
 
-### GitHub Stats
+### GitHub Activity
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/Lucagdev)
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=lucagdev&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucagdev&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Lucagdev&theme=github-dark-blue&hide_border=true" />
 </div>
 
 ---
